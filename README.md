@@ -1,1 +1,5 @@
 # odoo_third_party_apps
+
+## Available Apps
+1. Odoo 17 Full Accounting Kit for Community by Cybrosys Techno Solutions
+2. 
