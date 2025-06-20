@@ -9,3 +9,4 @@
 6. Mobile Service Management by Cybrosys Techno Solutions
 7. Freight Management by Cybrosys Techno Solutions
 8. Laundry Management by Cybrosys Techno Solutions
+9. Event Management by Cybrosys Techno Solutions
