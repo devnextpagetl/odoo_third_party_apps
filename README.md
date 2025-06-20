@@ -7,3 +7,4 @@
 4. Front Office Management by Cybrosys Techno Solutions
 5. Front Office Management Portal by Cybrosys Techno Solutions
 6. Mobile Service Management by Cybrosys Techno Solutions
+7. Freight Management by Cybrosys Techno Solutions
