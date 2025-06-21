@@ -12,3 +12,4 @@
 9. Event Management by Cybrosys Techno Solutions
 10. Event Catering Service by Cybrosys Techno Solutions (Also comes with no.9)
 11. Parking Management by Cybrosys Techno Solutions
+12. MuK AppsBar by MuK IT
